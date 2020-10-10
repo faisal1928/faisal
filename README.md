@@ -4,7 +4,7 @@ SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitt
 ```
 sudo apt-get install git
 git clone https://github.com/faisal1928/faisal.git
-cd Isal
+cd Faisal
 chmod +x Isal.sh
 chmod +x Install-sb.sh
 ./Install-sb.sh
