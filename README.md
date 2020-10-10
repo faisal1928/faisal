@@ -15,10 +15,10 @@ chmod +x install-sb.sh
 * Ubuntu 
 * Kali linux
 # Contact
+081221353640
 * [Contact](https://www.facebook.com/ouerghi.belahsan) - Belahsan Ouerghi
 # Authors :
-* facebook  : Imad
+* facebook  : Sippitt Jr
 * gmail     : Ha3MrX
-* instagram : thelinuxchoice
-* Twitter   : thelinuxchoice
-* SocialBox : Belahsan Ouerghi
+* instagram : Sippitt Jr
+* Twitter   : @faisal
