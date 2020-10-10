@@ -10,8 +10,6 @@ chmod +x install-sb.sh
 ./install-sb.sh
 ./SocialBox.sh
 ```
-# Screenshots :
-![Test Image 8](https://raw.githubusercontent.com/TunisianEagles/SocialBox/master/Screenshots/sb.png)
 # Tested On :
 * Backbox linux
 * Ubuntu 
