@@ -19,6 +19,6 @@ chmod +x install-sb.sh
 * [Contact](https://www.facebook.com/ouerghi.belahsan) - Belahsan Ouerghi
 # Authors :
 * facebook  : Sippitt Jr
-* gmail     : Ha3MrX
+* gmail     : arifisal660@gmail.com
 * instagram : Sippitt Jr
 * Twitter   : @faisal
